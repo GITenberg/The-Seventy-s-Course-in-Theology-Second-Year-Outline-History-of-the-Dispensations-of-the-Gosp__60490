@@ -1,0 +1,27 @@
+_repo: The-Seventy-s-Course-in-Theology-Second-Year-Outline-History-of-the-Dispensations-of-the-Gosp__60490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, B. H. (Brigham Henry)
+    alias: Roberts, Brigham Henry
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '37629'
+    url: http://www.gutenberg.org/2009/agents/37629
+    wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
+description: ''
+gutenberg_issued: '2019-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Mormon Church -- Doctrines'
+- GITenberg
+title: "The Seventy's Course in Theology, Second Year\r\nOutline History of the Dispensations\
+  \ of the Gospel"
+url: http://www.gutenberg.org/ebooks/60490
